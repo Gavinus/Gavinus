@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Gavin de Zaltza, I'm Full stack dev Junior and this is my Github!
 
 <!--
 **Gavinus/Gavinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
